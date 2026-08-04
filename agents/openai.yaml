@@ -1,4 +1,4 @@
 interface:
-  display_name: "德鲁克与 TPS 组织语言翻译"
-  short_description: "翻译外部管理方法，核验谱系，并衔接德鲁克/TPS行动"
-  default_prompt: "使用 $translate-drucker-tps 判断这套方法的职能、层级与来源，再将其有边界地翻译为德鲁克或 TPS 语言并形成可验证行动。"
+  display_name: "德鲁克与 TPS 老板汇报翻译"
+  short_description: "整理口头材料，生成老板汇报并校验德鲁克/TPS关联"
+  default_prompt: "使用 $translate-drucker-tps 整理这段口头材料，先生成老板可直接使用的汇报，再附上德鲁克/TPS关系、来源边界和行动验证依据。"
