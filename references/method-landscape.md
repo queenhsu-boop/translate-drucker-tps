@@ -32,7 +32,7 @@
 | **Scenario Planning**；Shell/Pierre Wack，[Shell回顾](https://www.shell.com/news-and-insights/scenarios/what-are-shell-scenarios/_jcr_content/root/main/section_509167378/promo/links/item0.stream/1652289755448/a0e75f042fee5322b72780ee36e5ba17c35a4fc6/shell-scenarios-40yearsbook080213.pdf) | 多种可信未来下何种选择更稳健；不预测“最可能未来” | 评估；宏观/企业组合；5–20年；粗—中 | 驱动因素、既定趋势、不确定性、决策 → 情景、路标、备选动作 | 德：互补校验 C；TPS：互补校验 C/层级错配 D | 必须检索当期驱动因素；误把情景当预测、愿景或故事集 |
 | **Wardley Maps**；[Simon Wardley](https://www.swardleymaps.com/) | 用户需要、组件依赖与演化地形；不证明因果或给出流程细节 | 描述/生成；业务/产品生态；1–5年；中 | 用户需要、依赖、演化证据 → 地图、气候、原则、行动假设 | 德：语义映射 C；TPS：互补校验 C | 需当前生态和演化证据；误作架构图、成熟度矩阵或价值流图 |
 | **OODA**；John Boyd，[原始简报档案](https://www.coljohnboyd.com/static/documents/1986-12__Boyd_John_R__Patterns_of_Conflict__PDF.pdf) | 对抗与不确定中如何持续重构认知并行动；不决定组织目的和长期组合 | 执行/学习；任务→组织；秒—月；细、循环 | 观察、经验、文化、模型、对手反馈 → 新定向、选择与行动 | 德：语义映射 C；TPS：执行衔接 C | 误作线性四步或“越快越好”；与 PDCA/TPS血缘表述时核验 |
-| **Theory of Constraints / Five Focusing Steps**；Eliyahu Goldratt，[官方说明](https://www.goldrattresearchlabs.com/introduction-to-toc) | 什么约束限制系统目标；不替组织决定目标或价值边界 | 诊断/执行；流程→企业/供应链；持续；中—细 | 系统目标、吞吐、库存、费用、流量 → 识别、利用、服从、提升约束 | 德：互补校验 C；TPS：互补/张力 C/D | 误把每个瓶颈都称约束、只加产能、忽略约束迁移；不能称 TPS同义方法 |
+| **Theory of Constraints (TOC) / Five Focusing Steps**；Eliyahu M. Goldratt；Goldratt/Cox 1984初版 *The Goal: Excellence in Manufacturing*，1986修订版副标题为 *A Process of Ongoing Improvement*；[TOCICO书目](https://www.tocico.org/resource/resmgr/selected_bibliography_of_eli.pdf) | 什么约束显著限制系统实现目标；不替组织决定目标或价值边界，也不保证未经验证的“瓶颈”就是约束 | 诊断/执行；流程→企业/供应链；持续；中—细 | 系统目标、吞吐、库存、费用、流量 → 识别约束、利用、服从、提升、约束迁移后重来 | 德：互补校验 C；TPS：互补/张力 C/D | 官方材料可能写 constraint(s)，不得绝对化为“任何系统任何时刻必定只有一个约束”；误把每个瓶颈称约束、只加产能；不能称TPS同义或衍生方法 |
 | **Strategic Choice Cascade**；Lafley/Martin，[创建者说明](https://rogerlmartin.com/thought-pillars/strategy) | 取胜愿景、在哪竞争、如何赢、能力和系统是否一致；不替代事实验证和运营设计 | 生成/评估；企业/业务；1–5年；中 | 顾客、竞争、经济性、能力假设 → 五项相互约束的选择 | 德：语义映射 C；TPS：执行衔接 C | 误作事后填表、口号和能力清单；关键选择必须有外部证据 |
 | **Resource-Based View / VRIN**；[Barney 1991](https://journals.sagepub.com/doi/10.1177/014920639101700108) | 哪些资源可能形成持续优势；不证明顾客付费或优势不会衰减 | 诊断；企业/业务；3–10年；中 | 价值、稀缺、难模仿、不可替代证据 → 战略资源和投资缺口 | 德：语义映射 C；TPS：层级错配 D | 误把所有长处称独特资源；VRIN/VRIO版本或原始出处表述时核验 |
 | **BCG Growth-Share Matrix**；[Bruce Henderson 1970](https://www.bcg.com/publications/1970/strategy-the-product-portfolio) | 多业务现金和资源配置议题；不凭增长/份额单独判断使命、协同与吸引力 | 评估；企业组合；2–7年；粗 | 相对份额、增长、现金需求/产出 → 投资、维持、收割、退出议题 | 德：语义映射 C；TPS：层级错配 D | 误把象限当绩效评级、机械杀“瘦狗”、默认份额必然带来利润 |
@@ -51,7 +51,7 @@
 | **COM-B / Behaviour Change Wheel**；Michie等，[2011原始论文](https://pubmed.ncbi.nlm.nih.gov/21513547/) | 能力、机会或动机如何限制目标行为；不回答行为是否值得推动或组织目的是否正当 | 诊断/生成；个人行为/制度环境；周—月；细 | 明确行为、障碍证据 → 行为诊断、干预函数 | 德：互补 C/张力 D；TPS：互补 C | 误把标签当诊断、只做培训或操控员工；伦理和自主性冲突时判D |
 | **Premortem**；Gary Klein，[HBR 2007](https://hbr.org/2007/09/performing-a-project-premortem) | 假设计划已失败，可能为何；不估算概率或替代风险量化 | 反证；项目/决策团队；启动前；风险假设级 | 计划、多元成员、约束 → 失败原因和缓解动作 | 德：互补校验 C；TPS：互补校验 C | 误变唱衰会、领导先给答案、无责任人；不得称TPS标准工具 |
 | **Design Thinking**；无单一发明者，[IDEO源流](https://designthinking.ideo.com/introduction) | 如何理解人、重构问题、生成并试验方案；不证明商业、技术或财务可行 | 诊断/生成；用户体验/产品服务；天—月；洞察—原型级 | 观察、访谈、约束 → 问题框定、概念、原型、反馈 | 德：语义映射 C；TPS：互补校验 C | 误把工作坊当创新、同理心当事实、跳过验证；发明者说法需核验 |
-| **Jobs to Be Done**；多流派，此处以 [Christensen Institute](https://www.christenseninstitute.org/theory/) 为代表 | 顾客在何种情境下“雇用”方案取得何种进展；不回答市场规模、利润或实现方式 | 诊断；顾客情境/产品；事件—生命周期；job级 | 行为、访谈、替代选择 → job、力量、障碍和机会 | 德：语义映射 C；TPS：执行衔接 C | 误把job写成产品功能或人口画像；流派/创建者表述时核验 |
+| **Jobs to Be Done (JTBD)**；多流派，此处以 [Christensen Institute](https://www.christenseninstitute.org/theory/jobs-to-be-done/) 为代表；Christensen/Scott Cook/Taddy Hall 2005，Christensen/Taddy Hall/Karen Dillon/David S. Duncan 2016 | 顾客在何种情境下“雇用”方案取得何种进展；不回答市场规模、利润、实现方式或具体研究样本量 | 诊断；顾客情境/产品；事件—生命周期；job级 | 行为、访谈、替代选择 → job、力量、障碍和机会 | 德：语义映射 C；TPS：候选执行接口 C 或层级错配 D | 误把job写成产品功能或人口画像；不得把多作者资料简化成单一创建者；流派/创建者表述时核验 |
 | **Psychological Safety**；Amy Edmondson，[1999论文记录](https://inclusionandbelongingtaskforce.harvard.edu/publications/psychological-safety-and-learning-behavior-work-teams) | 团队是否敢暴露问题、求助和承担人际风险；不等于舒适、同意或免绩效责任 | 诊断/执行；团队；持续；信念/行为级 | 行为证据、调查、事件 → 风险点和领导行为 | 德：互补校验 C；TPS：执行衔接 C | 误成“不能批评”、福利氛围或单次打分；调查不能替代行为证据 |
 | **Double-Loop Learning**；Chris Argyris，[HBR 1977](https://hbr.org/1977/09/double-loop-learning-in-organizations) | 错误应修改行动还是挑战目标、政策和支配变量；不直接给出新目标 | 诊断/学习；个人→组织制度；复盘—多年；假设级 | 结果偏差、推理过程、治理变量 → 行动修正或规则重构 | 德：语义映射 C；TPS：互补校验 C | 误把任何复盘称双环、无限质疑而不行动 |
 | **Kotter 8 Steps**；John Kotter，[官方方法](https://www.kotterinc.com/methodology/8-steps/) | 大规模变革如何动员、行动并制度化；不判断变革方向是否正确 | 执行；组织/生态；月—年；变革阶段级 | 变革机会、阻力、相关者 → 联盟、愿景、行动与短期成果 | 德：执行衔接 C；TPS：执行衔接/张力 C/D | 误作线性打卡或只做沟通；运动式变革替代日常改善时有张力 |
@@ -91,6 +91,8 @@
 
 ### 强制联网核验
 
+先在本表按正式名称、英文名和常用简称查找，并记录“已收录/未收录”。未检查本表不得声称方法未收录。已收录时可使用稳定边界，但以下情况仍须联网：
+
 - 名称不在本表，或存在流派、版本、创建者和谱系争议。
 - 用户询问“谁发明、源自哪里、原话、官方定义”。
 - 准备把完整方法或组件判为 A/B。
@@ -98,3 +100,5 @@
 - 应用依赖当前市场、法规、客户、竞争、技术或生态数据。
 
 本表中的链接用于方法校准，不证明外部方法与德鲁克/TPS存在历史传承。找不到可信来源时，标记“尚未证实”，不得补造来源或把相似性升级成血缘。
+
+必须联网而当前工具不可用时，不得凭模型记忆完成正式归因；只输出待核验事项并停止正式老板汇报。
